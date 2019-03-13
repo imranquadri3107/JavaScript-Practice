@@ -25,7 +25,7 @@ car1.getCarDescription.apply(car3, [30000, 2019, 'White']);
 
 
 
-// Type of Data Types Example
+// Type of Data Types Example in JavaScript
 
 console.log(typeof null);  //object
 console.log(typeof undefined); // undefined
